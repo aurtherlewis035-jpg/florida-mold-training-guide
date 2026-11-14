@@ -32,3 +32,8 @@ https://www.floridamoldcourse.com/
 ## Disclaimer
 
 This repository is intended for educational and informational purposes. Visit the official website for current course details and enrollment information.
+## Visit Our Website
+
+Learn more about professional mold training, mold inspection, and educational resources.
+
+[Florida Mold Course](https://www.floridamoldcourse.com/)
